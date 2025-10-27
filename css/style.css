@@ -2,6 +2,25 @@
     margin: 0;
     padding: 0;
 }
-.h1{
-   color: rgb(231, 231, 20);
+.mBar{
+    background: red;
+    padding: 50px;
+}
+.m{
+    width: 1320px;
+    background: rgb(101, 226, 43);
+    padding: 15px;
+    margin: 0 auto;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.text{
+    display: flex;
 }
